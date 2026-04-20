@@ -5,7 +5,7 @@ A Software Engineering student trying to create opportunities for myself and hop
 I've decided that I wanted to pursue a mission on getting into the tech industry.
 
 Right now, I'm currently in my learning and recap phase of building my skills in programming, problem-solving and software development step by step.
-I know that this journey wont be easy, but I'm committed to improving consistently and documenting everything the along the way.
+I know that this journey wont be easy, but I'm committed to improving consistently and documenting everything the along the way, hoping to branch off into something like machine learning.
 
 I'll be sharing my progress here as I grow.
 
