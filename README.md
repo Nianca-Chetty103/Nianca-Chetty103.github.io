@@ -1,7 +1,7 @@
 # MyPortfolio
 Hi there... I'm Nianca 👋
 
-A Software Engineering student trying to create opportunities for myself and hoping for other people one day.
+A Software Engineering student trying to create opportunities for myself and that hoping one day I can returns the favours and help others reach their potential.
 I've decided that I wanted to pursue a mission on getting into the tech industry.
 
 Right now, I'm currently in my learning and recap phase of building my skills in programming, problem-solving and software development step by step.
